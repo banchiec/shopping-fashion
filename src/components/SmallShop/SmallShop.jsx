@@ -317,7 +317,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Water resistant backpack</a>
+										<a href="#">Water resistant</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>

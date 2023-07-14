@@ -1,4 +1,4 @@
-const CarouselSection = () => {
+const CarouselSection = (props) => {
 	return (
 		<section className="banner set-bg" data-setbg="assets/img/banner/banner-1.jpg">
 			<div className="container">
@@ -15,7 +15,8 @@ const CarouselSection = () => {
 							<div className="banner__item">
 								<div className="banner__text">
 									<span>The Chloe Collection</span>
-									<h1>The Project Jacket</h1>
+									<img src="assets/img/banner/banner-1.jpg" alt="banner" />
+									<h1>The Project Jacket </h1>
 									<a href="#">Shop now</a>
 								</div>
 							</div>
