@@ -1,3 +1,5 @@
+import '../styles/menuWrapperStyles.css'
+
 const MenuWrapper = () => {
 	return (
 		<>
