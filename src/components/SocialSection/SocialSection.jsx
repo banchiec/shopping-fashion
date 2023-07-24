@@ -8,7 +8,7 @@ const SocialSection = () => {
 							<div className="instagram__item set-bg" data-setbg="assets/img/instagram/insta-1.jpg">
 								<div className="instagram__text">
 									<i className="fa fa-instagram"></i>
-									<a href="/">@ ashion_shop</a>
+									<a href="/">Fashion_shop</a>
 								</div>
 							</div>
 						</div>
@@ -16,7 +16,7 @@ const SocialSection = () => {
 							<div className="instagram__item set-bg" data-setbg="assets/img/instagram/insta-2.jpg">
 								<div className="instagram__text">
 									<i className="fa fa-instagram"></i>
-									<a href="/">@ ashion_shop</a>
+									<a href="/">Fashion_shop</a>
 								</div>
 							</div>
 						</div>
@@ -24,7 +24,7 @@ const SocialSection = () => {
 							<div className="instagram__item set-bg" data-setbg="assets/img/instagram/insta-3.jpg">
 								<div className="instagram__text">
 									<i className="fa fa-instagram"></i>
-									<a href="/">@ ashion_shop</a>
+									<a href="/">Fashion_shop</a>
 								</div>
 							</div>
 						</div>
@@ -48,7 +48,7 @@ const SocialSection = () => {
 							<div className="instagram__item set-bg" data-setbg="assets/img/instagram/insta-6.jpg">
 								<div className="instagram__text">
 									<i className="fa fa-instagram"></i>
-									<a href="/">@ ashion_shop</a>
+									<a href="/">Fashion_shop</a>
 								</div>
 							</div>
 						</div>
