@@ -1,4 +1,4 @@
-import MenuWrapper from './libs/MenuWrapper'
+import MenuWrapper from "./libs/MenuWrapper"
 
 const Header = () => {
 	const handleClick = (e) => {
@@ -12,7 +12,7 @@ const Header = () => {
 					<div className="row">
 						<div className="col-xl-3 col-lg-2">
 							<div className="header__logo">
-								<a href="#">
+								<a href="/">
 									<img src="assets/img/logo.png" alt="" />
 								</a>
 							</div>
@@ -21,41 +21,41 @@ const Header = () => {
 							<nav className="header__menu">
 								<ul>
 									<li className="active">
-										<a href="#">Home</a>
+										<a href="/">Home</a>
 									</li>
 									<li>
-										<a href="#">Women’s</a>
+										<a href="/">Women’s</a>
 									</li>
 									<li>
-										<a href="#">Men’s</a>
+										<a href="/">Men’s</a>
 									</li>
 									<li>
-										<a href="#" onClick={(e) => handleClick(e)}>
+										<a href="/" onClick={(e) => handleClick(e)}>
 											Shop
 										</a>
 									</li>
 									<li>
-										<a href="#">Pages</a>
+										<a href="/">Pages</a>
 										<ul className="dropdown">
 											<li>
-												<a href="#">Product Details</a>
+												<a href="/">Product Details</a>
 											</li>
 											<li>
-												<a href="#">Shop Cart</a>
+												<a href="/">Shop Cart</a>
 											</li>
 											<li>
-												<a href="#">Checkout</a>
+												<a href="/">Checkout</a>
 											</li>
 											<li>
-												<a href="#">Blog Details</a>
+												<a href="/">Blog Details</a>
 											</li>
 										</ul>
 									</li>
 									<li>
-										<a href="#">Blog</a>
+										<a href="/">Blog</a>
 									</li>
 									<li>
-										<a href="#">Contact</a>
+										<a href="/">Contact</a>
 									</li>
 								</ul>
 							</nav>
@@ -63,21 +63,21 @@ const Header = () => {
 						<div className="col-lg-3">
 							<div className="header__right">
 								<div className="header__right__auth">
-									<a href="#">Login</a>
-									<a href="#">Register</a>
+									<a href="/">Login</a>
+									<a href="/">Register</a>
 								</div>
 								<ul className="header__right__widget">
 									<li>
 										<span className="icon_search search-switch"></span>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/">
 											<span className="icon_heart_alt"></span>
 											<div className="tip">2</div>
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/">
 											<span className="icon_bag_alt"></span>
 											<div className="tip">2</div>
 										</a>
