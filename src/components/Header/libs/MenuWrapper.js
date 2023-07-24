@@ -9,20 +9,20 @@ const MenuWrapper = () => {
 						<span className="icon_search search-switch"></span>
 					</li>
 					<li>
-						<a href="#">
+						<a href="/">
 							<span className="icon_heart_alt"></span>
 							<div className="tip">2</div>
 						</a>
 					</li>
 					<li>
-						<a href="#">
+						<a href="/">
 							<span className="icon_bag_alt"></span>
 							<div className="tip">2</div>
 						</a>
 					</li>
 				</ul>
 				<div className="offcanvas__logo">
-					<a href="#">
+					<a href="/">
 						<img src="assets/img/logo.png" alt="" />
 					</a>
 				</div>
@@ -31,8 +31,8 @@ const MenuWrapper = () => {
 				<div id="mobile-menu-wrap"></div>
 
 				<div className="offcanvas__auth">
-					<a href="#">Login</a>
-					<a href="#">Register</a>
+					<a href="/">Login</a>
+					<a href="/">Register</a>
 				</div>
 			</div>
 		</>

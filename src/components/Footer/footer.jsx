@@ -7,28 +7,28 @@ const Footer = () => {
 						<div className="col-lg-4 col-md-6 col-sm-7">
 							<div className="footer__about">
 								<div className="footer__logo">
-									<a href="#">
+									<a href="/">
 										<img src="assets/img/logo.png" alt="" />
 									</a>
 								</div>
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-									tempor incididunt cilisis.
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+									incididunt cilisis.
 								</p>
 								<div className="footer__payment">
-									<a href="#">
+									<a href="/">
 										<img src="assets/img/payment/payment-1.png" alt="" />
 									</a>
-									<a href="#">
+									<a href="/">
 										<img src="assets/img/payment/payment-2.png" alt="" />
 									</a>
-									<a href="#">
+									<a href="/">
 										<img src="assets/img/payment/payment-3.png" alt="" />
 									</a>
-									<a href="#">
+									<a href="/">
 										<img src="assets/img/payment/payment-4.png" alt="" />
 									</a>
-									<a href="#">
+									<a href="/">
 										<img src="assets/img/payment/payment-5.png" alt="" />
 									</a>
 								</div>
@@ -39,16 +39,16 @@ const Footer = () => {
 								<h6>Quick links</h6>
 								<ul>
 									<li>
-										<a href="#">About</a>
+										<a href="/">About</a>
 									</li>
 									<li>
-										<a href="#">Blogs</a>
+										<a href="/">Blogs</a>
 									</li>
 									<li>
-										<a href="#">Contact</a>
+										<a href="/">Contact</a>
 									</li>
 									<li>
-										<a href="#">FAQ</a>
+										<a href="/">FAQ</a>
 									</li>
 								</ul>
 							</div>
@@ -58,16 +58,16 @@ const Footer = () => {
 								<h6>Account</h6>
 								<ul>
 									<li>
-										<a href="#">My Account</a>
+										<a href="/">My Account</a>
 									</li>
 									<li>
-										<a href="#">Orders Tracking</a>
+										<a href="/">Orders Tracking</a>
 									</li>
 									<li>
-										<a href="#">Checkout</a>
+										<a href="/">Checkout</a>
 									</li>
 									<li>
-										<a href="#">Wishlist</a>
+										<a href="/">Wishlist</a>
 									</li>
 								</ul>
 							</div>
@@ -75,26 +75,26 @@ const Footer = () => {
 						<div className="col-lg-4 col-md-8 col-sm-8">
 							<div className="footer__newslatter">
 								<h6>NEWSLETTER</h6>
-								<form action="#">
+								<form action="/">
 									<input type="text" placeholder="Email" />
 									<button type="submit" className="site-btn">
 										Subscribe
 									</button>
 								</form>
 								<div className="footer__social">
-									<a href="#">
+									<a href="/">
 										<i className="fa fa-facebook"></i>
 									</a>
-									<a href="#">
+									<a href="/">
 										<i className="fa fa-twitter"></i>
 									</a>
-									<a href="#">
+									<a href="/">
 										<i className="fa fa-youtube-play"></i>
 									</a>
-									<a href="#">
+									<a href="/">
 										<i className="fa fa-instagram"></i>
 									</a>
-									<a href="#">
+									<a href="/">
 										<i className="fa fa-pinterest"></i>
 									</a>
 								</div>
@@ -105,11 +105,10 @@ const Footer = () => {
 						<div className="col-lg-12">
 							<div className="footer__copyright__text">
 								<p>
-									Copyright &copy;{' '}
-									<script>document.write(new Date().getFullYear());</script> All rights
-									reserved | This template is made with{' '}
-									<i className="fa fa-heart" aria-hidden="true"></i> by{' '}
-									<a href="#" target="_blank">
+									Copyright &copy; <script>document.write(new Date().getFullYear());</script> All
+									rights reserved | This template is made with{" "}
+									<i className="fa fa-heart" aria-hidden="true"></i> by{" "}
+									<a href="/" target="_blank">
 										Heart
 									</a>
 								</p>

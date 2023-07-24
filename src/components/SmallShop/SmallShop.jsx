@@ -26,12 +26,12 @@ const SmallShop = () => {
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_heart_alt"></span>
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_bag_alt"></span>
 											</a>
 										</li>
@@ -39,7 +39,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Buttons tweed blazer</a>
+										<a href="/">Buttons tweed blazer</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>
@@ -65,12 +65,12 @@ const SmallShop = () => {
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_heart_alt"></span>
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_bag_alt"></span>
 											</a>
 										</li>
@@ -78,7 +78,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Flowy striped skirt</a>
+										<a href="/">Flowy striped skirt</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>
@@ -105,12 +105,12 @@ const SmallShop = () => {
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_heart_alt"></span>
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_bag_alt"></span>
 											</a>
 										</li>
@@ -118,7 +118,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Cotton T-Shirt</a>
+										<a href="/">Cotton T-Shirt</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>
@@ -144,12 +144,12 @@ const SmallShop = () => {
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_heart_alt"></span>
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_bag_alt"></span>
 											</a>
 										</li>
@@ -157,7 +157,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Slim striped pocket shirt</a>
+										<a href="/">Slim striped pocket shirt</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>
@@ -183,12 +183,12 @@ const SmallShop = () => {
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_heart_alt"></span>
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_bag_alt"></span>
 											</a>
 										</li>
@@ -196,7 +196,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Fit micro corduroy shirt</a>
+										<a href="/">Fit micro corduroy shirt</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>
@@ -223,12 +223,12 @@ const SmallShop = () => {
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_heart_alt"></span>
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_bag_alt"></span>
 											</a>
 										</li>
@@ -236,7 +236,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Tropical Kimono</a>
+										<a href="/">Tropical Kimono</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>
@@ -264,12 +264,12 @@ const SmallShop = () => {
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_heart_alt"></span>
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_bag_alt"></span>
 											</a>
 										</li>
@@ -277,7 +277,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Contrasting sunglasses</a>
+										<a href="/">Contrasting sunglasses</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>
@@ -304,12 +304,12 @@ const SmallShop = () => {
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_heart_alt"></span>
 											</a>
 										</li>
 										<li>
-											<a href="#">
+											<a href="/">
 												<span className="icon_bag_alt"></span>
 											</a>
 										</li>
@@ -317,7 +317,7 @@ const SmallShop = () => {
 								</div>
 								<div className="product__item__text">
 									<h6>
-										<a href="#">Water resistant backpack</a>
+										<a href="/">Water resistant backpack</a>
 									</h6>
 									<div className="rating">
 										<i className="fa fa-star"></i>
